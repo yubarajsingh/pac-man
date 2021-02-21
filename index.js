@@ -64,3 +64,4 @@ function createBoard(){
 
 createBoard()
 console.log(squares)
+sa
